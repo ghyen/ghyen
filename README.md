@@ -1,9 +1,12 @@
-<a href="https://solved.ac/pjs9905"><img align="right" src="http://mazandi.herokuapp.com/api?handle=pjs9905&theme=dark"/></a>
-![42 Badge](http://img.shields.io/badge/-42seoul-black?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/gkwon)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs9905)](https://solved.ac/pjs9905)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghyen&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghyen)](https://github.com/깃허브아이디/github-readme-stats)
+![42 Badge](http://img.shields.io/badge/-42seoul-black?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/gkwon)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghyen&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghyen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs9905)](https://solved.ac/pjs9905)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
