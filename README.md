@@ -1,5 +1,11 @@
-### Hi there 👋
+<a href="https://solved.ac/pjs9905"><img align="right" src="http://mazandi.herokuapp.com/api?handle=pjs9905&theme=dark"/></a>
+![42 Badge](http://img.shields.io/badge/-42seoul-black?style=for-the-badge&logo=42&link=https://profile.intra.42.fr/users/gkwon)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs9905)](https://solved.ac/pjs9905)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghyen&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghyen)](https://github.com/깃허브아이디/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 <!--
 **ghyen/ghyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
