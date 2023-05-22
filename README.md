@@ -15,8 +15,8 @@
 ![Oracle](http://img.shields.io/badge/-Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghyen&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghyen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=ghyen&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=ghyen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs9905)](https://solved.ac/pjs9905)
