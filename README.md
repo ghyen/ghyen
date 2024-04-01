@@ -4,7 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghyen&count_bg=%23FFB1B1&title_bg=%23AAAAAA&icon=trustpilot.svg&icon_color=%23FFE8E8&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![gkwon's 42 stats](https://badge.mediaplus.ma/darkblue/gkwon?1337Badge=off&UM6P=off)
 
 #### 💻 Skills 💻
 
@@ -20,7 +19,6 @@
   <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=ghyen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjs9905)](https://solved.ac/pjs9905)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
