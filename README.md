@@ -11,7 +11,6 @@
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](http://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](http://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=grey)
 ![Oracle](http://img.shields.io/badge/-Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 <p>
