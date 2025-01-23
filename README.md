@@ -8,13 +8,36 @@
 
 
 #### 💻 Skills 💻
+<div align=center>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+</div>
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
-![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=Spring&logoColor=white)
-![SpringBoot](http://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
-![Oracle](http://img.shields.io/badge/-Oracle-f80000?style=flat-square&logo=Oracle&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
+# Language
+- OPIc - AL
+
+# 🪪 Certificate 
+- AWS solution architect - associate
+- 정보처리기사
+- SQLD
+- 네트워크관리사 2급
+
 <p>
   <img height="180em" src="https://readmestats.999857.xyz/api?username=ghyen&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=ghyen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
