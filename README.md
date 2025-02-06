@@ -29,6 +29,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
 
+## 🍀 About me
+<span>
+
+- **[2022.11-2024.12]** 42Seoul
+- **[2024.07-2024.08]** Naver BoostCamp WEB challenge
+- **[2024.10-2025.05]** Kakao tech bootcamp
+<br>
+
 # Language
 - OPIc - AL
 
