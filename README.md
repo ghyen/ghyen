@@ -32,7 +32,7 @@
 ## 🍀 About me
 <span>
 
-- **[2022.11-2024.12]** 42Seoul
+- **[2022.11-2025.02]** 42 École-Seoul campus -> France Répertoire national des Certifications professionnelles(RNCP) degree ~ing
 - **[2024.07-2024.08]** Naver BoostCamp WEB challenge
 - **[2024.10-2025.05]** Kakao tech bootcamp
 <br>
